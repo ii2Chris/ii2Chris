@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 <!--
 **ii2Chris/ii2Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
