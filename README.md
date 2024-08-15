@@ -16,8 +16,6 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate, and I am expa
 
 #
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ii2Chris&hide=contribs,prs)
-
 <!--
 **ii2Chris/ii2Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
