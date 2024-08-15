@@ -14,7 +14,10 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate, and I am expa
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+### 🖥️ Currently Working on
+
+I am currently learning about web development and frontend space. I am tackling tasks with JS, HTML, and CSS to build and get a better understanding of web applications.
+
 
 <!--
 **ii2Chris/ii2Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
