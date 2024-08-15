@@ -18,7 +18,7 @@ I am currently learning about web development and frontend space. I am tackling 
 
 ### 📚 Contact me
 
-Email: chrisbudhram03@outlook.com
+Email: chrisbudhram03@outlook.com<br>
 Linkedin: https://www.linkedin.com/in/chrisbudhram/
 
 
