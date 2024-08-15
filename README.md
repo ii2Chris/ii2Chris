@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi, my name is Chris. I am a soon-to-be computer science graduate and am ever expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want!
+Hi, my name is Chris. I am a soon-to-be computer science graduate, and I am expanding my skills and finding a niche which I enjoy. Feel free to scroll around my GitHub profile if you want!
 
 ### 🧰 Languages and Tools
 
@@ -15,6 +15,8 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate and am ever ex
 <br />
 
 #
+
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <!--
 **ii2Chris/ii2Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
