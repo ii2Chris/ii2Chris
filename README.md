@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi, my name is Chris. I am a soon-to-be computer science graduate, and I am expanding my skills and finding a niche which I enjoy. Feel free to scroll around my GitHub profile if you want!
+Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want!
 
 ### 🧰 Languages and Tools
 
@@ -17,6 +17,11 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate, and I am expa
 ### 🖥️ Currently Working on
 
 I am currently learning about web development and frontend space. I am tackling tasks with JS, HTML, and CSS to build and get a better understanding of web applications.
+
+### 📚 Contact me
+
+Email: chrisbudhram03@outlook.com
+Linkedin: https://www.linkedin.com/in/chrisbudhram/
 
 
 <!--
