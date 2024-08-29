@@ -1,7 +1,6 @@
 ### 👋 Hi there
 
-Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want! <br><br>
-Also, check out my site for more information about me: <p><a href="https://ii2chris.github.io/index" target="_blank"> My Portfolio!</a>  If the redirect isnt working, the site is: ii2Chris.github.io<p>
+Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want!  Also, be sure to check out my site for more information about me: <p><a href="https://ii2chris.github.io/index" target="_blank"> My Portfolio!</a>  If the redirect isnt working, the site is: ii2Chris.github.io<p>
 
 ### 🧰 Languages and Tools
 
