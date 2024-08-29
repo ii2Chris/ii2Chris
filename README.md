@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want! <br><br>
-Also, check out my site for more information about me: ii2Chris.github.io
+Also, check out my site for more information about me: <a href="ii2Chris.github.io" target="_blank"> My Site! </a>
 
 ### 🧰 Languages and Tools
 
