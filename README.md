@@ -14,7 +14,7 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my 
 
 ### 🖥️ Currently Working on
 
-I am currently learning about web development and the frontend space. I am tackling tasks with JS, HTML, and CSS to build and get a better understanding of web applications.
+I am currently learning about web development and the frontend space. I am tackling tasks with React and JavaScript to build and better understand web applications.
 
 ### 📚 Contact me
 
