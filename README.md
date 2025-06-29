@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my skills and finding a niche I enjoy. Feel free to scroll around my GitHub profile if you want!  Also, be sure to check out my site for more information about me: <p><a href="https://ii2chris.github.io/index" target="_blank"> My Portfolio!</a>  If the redirect isnt working, the site is: ii2Chris.github.io<p>
+My name is Chris. Recent Computer Science graduate from York College with experience in full-stack web development. I build user-focused applications using React, Node.js, and JavaScript. Check out my projects below and visit my portfolio for more details <p><a **Portfolio:** [ii2Chris.github.io](https://ii2chris.github.io/)
 
 ### 🧰 Languages and Tools
 
@@ -11,10 +11,6 @@ Hi, my name is Chris. I am a soon-to-be computer science graduate, expanding my 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-### 🖥️ Currently Working on
-
-I am currently learning about web development and the frontend space. I am tackling tasks with React and JavaScript to build and better understand web applications.
 
 ### 📚 Contact me
 
