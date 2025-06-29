@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-My name is Chris. Recent Computer Science graduate from York College with experience in full-stack web development. I build user-focused applications using React, Node.js, and JavaScript. Check out my projects below and visit my portfolio for more details <p><a> **Portfolio:** [ii2Chris.github.io](https://ii2chris.github.io/)
+My name is Chris—a recent Computer Science graduate from York College with experience in full-stack web development. I build user-focused applications using React, Node.js, and JavaScript. Check out my projects below!
 
 ### 🧰 Languages and Tools
 
@@ -11,6 +11,9 @@ My name is Chris. Recent Computer Science graduate from York College with experi
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+### 🔭 Currently working on
+Enhancing my portfolio, exploring new React patterns, and seeking new opportunities in software development.
 
 ### 📚 Contact me
 
