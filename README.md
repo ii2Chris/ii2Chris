@@ -18,8 +18,8 @@ Enhancing my portfolio, exploring new React patterns, and seeking new opportunit
 ### 📚 Contact me
 
 Email: chrisbudhram03@outlook.com<br>
-Linkedin: https://www.linkedin.com/in/chrisbudhram/
-
+Linkedin: https://www.linkedin.com/in/chrisbudhram/<br>
+X: https://x.com/iiiCopy
 
 <!--
 **ii2Chris/ii2Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
