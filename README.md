@@ -13,7 +13,7 @@ My name is Chris—a recent Computer Science graduate from York College with exp
 <br />
 
 ### 🔭 Currently working on
-Enhancing my portfolio, exploring new React patterns, and seeking new opportunities in software development.
+Enhancing my portfolio, exploring new React patterns, and messing around with LLMs!
 
 ### 📚 Contact me
 
