@@ -4,8 +4,6 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 When I'm not coding, you'll find me exploring the latest in AI/LLM tech or working on side projects.
 
----
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,26 +19,22 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
-
 ## 📖 **Learning:** 
 - AI/ML integration 
 - Exploring React patterns
 - Tailwind CSS
 
 <br />
-
 ## 🚀 What I'm Building
 - **[Portfolio Site]** -- WIP (currently refactoring to understand every line of code!)
 - Always experimenting with new React patterns and LLM integrations
 
 <br />
-
 ## 📬 Let's Connect
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)   
 
 <br />
-
 ## 🎮 Fun Fact
 I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6">Marvel Rivals</a> than I am at coding... probably.
 
