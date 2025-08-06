@@ -4,7 +4,8 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 When I'm not coding, you'll find me exploring the latest in AI/LLM tech or working on side projects.
 
---
+---
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,9 +22,7 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 <br />
 
-#
 **Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
-<br />
 
 ---
 
@@ -38,8 +37,6 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
-
----
 
 <details>
 <summary>🎮 Fun Fact</summary>
