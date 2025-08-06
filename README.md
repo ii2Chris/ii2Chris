@@ -22,7 +22,9 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 <br clear="left"/>
 
-**Currently Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
+---
+
+## **Currently Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
 
 ---
 
