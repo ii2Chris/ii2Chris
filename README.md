@@ -21,8 +21,10 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
+--- 
 
-**Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
+## 📖 **Learning:** 
+AI/ML integration, advanced React patterns, Tailwind CSS
 
 ---
 
@@ -38,10 +40,8 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
 
-<details>
-<summary>🎮 Fun Fact</summary>
+## 🎮 Fun Fact
 I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6">Marvel Rivals</a> than I am at coding... probably.
-</details>
 
 ---
 
