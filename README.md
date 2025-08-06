@@ -21,24 +21,25 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
---- 
 
 ## 📖 **Learning:** 
-AI/ML integration, advanced React patterns, Tailwind CSS
+- AI/ML integration 
+- Exploring React patterns
+- Tailwind CSS
 
 ---
 
 ## 🚀 What I'm Building
-
-- **[Portfolio Site]** -- WIP!! - Clean, minimal React portfolio (currently refactoring to understand every line of code!)
+- **[Portfolio Site]** -- WIP (currently refactoring to understand every line of code!)
 - Always experimenting with new React patterns and LLM integrations
 
 ---
 
 ## 📬 Let's Connect
-
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
+
+--- 
 
 ## 🎮 Fun Fact
 I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6">Marvel Rivals</a> than I am at coding... probably.
