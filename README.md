@@ -24,9 +24,9 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 ---
 
-## **Currently Learning:**
+## 📖 Currently Learning:
 - AI/ML integration
-- Exploring React Pattersn
+- Exploring React Patterns
 - Tailwind CSS
 
 ---
