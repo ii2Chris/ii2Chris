@@ -4,6 +4,8 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 When I'm not coding, you'll find me exploring the latest in AI/LLM tech or working on side projects.
 
+---
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,18 +22,28 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 <br clear="left"/>
 
-**Learning:** AI/ML integration, exploring React patterns, Tailwind CSS
+**Currently Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
+
+---
 
 ## 🚀 What I'm Building
+
 - **[Portfolio Site]** -- WIP (currently refactoring to understand every line of code!)
 - Always experimenting with new React patterns and LLM integrations
 
+---
+
 ## 📬 Let's Connect
+
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)
 
+---
+
 ## 🎮 Fun Fact
+
 I'm probably better at [Marvel Rivals](https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6) than I am at coding... probably.
 
 ---
+
 *"Building simple, beautiful user experiences - one commit at a time."*
