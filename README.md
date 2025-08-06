@@ -1,11 +1,15 @@
 # Hey, I'm Chris! 👋
 
 A **full-stack developer** who loves building clean, user-focused web applications. Recent CS grad from York College with a passion for React, Node.js, and creating smooth user experiences.
+
 When I'm not coding, you'll find me exploring the latest in AI/LLM tech or working on side projects.
 
 ---
+<br />
 
 ## 🧰 Languages and Tools
+
+<br />
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -21,12 +25,12 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 <br />
 
-**Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
+#
 
-<details>
-<summary>🎮 Fun Fact</summary>
-I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6">Marvel Rivals</a> than I am at coding... probably.
-</details>
+<br />
+
+**Learning:** AI/ML integration, advanced React patterns, Tailwind CSS
+<br />
 
 ---
 
@@ -43,5 +47,10 @@ I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiC
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
 
 ---
+
+<details>
+<summary>🎮 Fun Fact</summary>
+I'm probably better at <a href="https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6">Marvel Rivals</a> than I am at coding... probably.
+</details>
 
 *"Building simple, beautiful user experiences - one commit at a time."*
