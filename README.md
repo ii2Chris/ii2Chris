@@ -33,8 +33,6 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 ---
 
 ## 🚀 What I'm Building
-
-- **[Portfolio Site]** -- WIP (currently refactoring to understand every line of code!)
 - Always experimenting with new React patterns and LLM integrations
 
 ---
@@ -43,6 +41,7 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)
+**[Portfolio](https://portfolio-git-main-ii2chris-projects.vercel.app/)**
 
 ---
 
