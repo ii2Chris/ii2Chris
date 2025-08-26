@@ -1,8 +1,7 @@
 # Hey, I'm Chris! 👋
 
-A **full-stack developer** who loves building clean, user-focused web applications. Recent CS grad from York College with a passion for React, Node.js, and creating smooth user experiences.
-
-When I'm not coding, you'll find me exploring the latest in AI/LLM tech or working on side projects.
+A **full-stack developer** who loves building clean, user-focused web applications.  
+📂 Check out my portfolio here → [Portfolio Website](https://portfolio-git-main-ii2chris-projects.vercel.app)
 
 ---
 
@@ -41,8 +40,6 @@ When I'm not coding, you'll find me exploring the latest in AI/LLM tech or worki
 
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)
-**[Portfolio](https://portfolio-git-main-ii2chris-projects.vercel.app/)**
-
 ---
 
 ## 🎮 Fun Fact
