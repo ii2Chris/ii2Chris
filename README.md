@@ -32,7 +32,7 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 ---
 
 ## 🚀 What I'm Building
-- Always experimenting with new React patterns and LLM integrations
+- Currently exploring new projects to invest my time into!
 
 ---
 
