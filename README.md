@@ -1,7 +1,7 @@
 # Hey, I'm Chris! 👋
 
 A **full-stack developer** who loves building clean, user-focused web applications.  
-📂 Check out my portfolio here → [Portfolio Website](https://portfolio-git-main-ii2chris-projects.vercel.app)
+📂 Check out my portfolio here → [Portfolio Website](https://chrisbudhram.vercel.app/)
 
 ---
 
