@@ -1,7 +1,7 @@
 # Hey, I'm Chris! 👋
 
 A **full-stack developer** who loves building clean, user-focused web applications.  
-📂 Check out my portfolio here → [Portfolio Website](https://chrisbudhram.vercel.app/)
+📂 Check out my portfolio → [chrisbudhram.vercel.app](https://chrisbudhram.vercel.app)
 
 ---
 
@@ -24,15 +24,30 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 ---
 
-## 📖 Currently Learning:
-- AI/ML integration
-- Exploring React Patterns
-- Tailwind CSS
+## 📖 Currently Learning
+- AI/ML integration  
+- Exploring advanced React patterns  
+- Tailwind CSS  
 
 ---
 
-## 🚀 What I'm Building
-- Currently exploring new projects to invest my time into!
+## 🚀 Projects
+
+### 🌐 [Responsive Grid Layout](https://responsive-grid-layout-mu.vercel.app/)
+A responsive **grid-based layout system** built with HTML, CSS, and JS.  
+📱 Demonstrates adaptive design across **desktop, tablet, and mobile** breakpoints.
+
+---
+
+### 🎵 [CertGram](https://certgram.vercel.app/)
+A **concert-matching platform** built with React + Node.  
+🎤 Connects users to events, explores responsive UI, and demonstrates **full-stack collaboration**.
+
+---
+
+### 🖥️ [Portfolio Website](https://chrisbudhram.vercel.app/)
+My personal developer portfolio, designed with **React + TailwindCSS**.  
+📂 Showcases projects, skills, and my coding journey.
 
 ---
 
@@ -40,14 +55,12 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 **Email:** chrisbudhram03@outlook.com  
 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
-**Portfolio:** [portfolio-git-main-ii2chris-projects.vercel.app](https://portfolio-git-main-ii2chris-projects.vercel.app)
 
 ---
 
 ## 🎮 Fun Fact
-
 I'm probably better at [Marvel Rivals](https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6) than I am at coding... probably.
 
 ---
 
-*"Building simple, beautiful user experiences - one commit at a time."*
+*"Building simple, beautiful user experiences — one commit at a time."*
