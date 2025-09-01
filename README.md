@@ -32,7 +32,7 @@ HTML • CSS • JavaScript • React • Node.js • Express • C++ • Tailwi
 ---
 
 ## 🎮 Fun Fact
-Probably better at [Marvel Rivals](https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview?season=6) than I am at coding... probably.  
+Probably better at [Marvel Rivals](https://tracker.gg/marvel-rivals/profile/ign/iiCopy/overview) than I am at coding... probably.  
 
 ---
 
