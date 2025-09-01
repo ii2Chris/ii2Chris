@@ -38,7 +38,7 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 ---
 
 ## 📬 Let's Connect
-📧 **Email:** chrisbudhram03@outlook.com  
+📧 **Email:** christopherbudhra.jobs@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
 🌐 **Portfolio:** [chrisbudhram.vercel.app](https://chrisbudhram.vercel.app)  
 
