@@ -24,9 +24,9 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 ---
 
 ## 📖 Currently Learning
-- AI/ML integration  
-- Advanced React patterns  
-- Tailwind CSS  
+- SQL, SQLite
+- Python
+- Docker 
 
 ---
 
@@ -38,7 +38,7 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 ---
 
 ## 📬 Let's Connect
-📧 **Email:** christopherbudhra.jobs@gmail.com  
+📧 **Email:** christopherbudhram.jobs@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
 🌐 **Portfolio:** [chrisbudhram.vercel.app](https://chrisbudhram.vercel.app)  
 
