@@ -36,9 +36,6 @@ SQL + database design (SQLite/PostgreSQL)
 - [**CertGram**](https://certgram.vercel.app/) 
 - [**Portfolio Website**](https://chrisbudhram.vercel.app/)
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/de93ea77-09eb-4726-a3b7-39651616b4d3/thumbnail" >
-</p>
 ---
 
 ## 📬 Let's Connect
