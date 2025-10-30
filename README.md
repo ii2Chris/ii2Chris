@@ -31,6 +31,8 @@ SQL + database design (SQLite/PostgreSQL)
 ---
 
 ## 🚀 Projects
+- [**MD to HTML site converter**](https://github.com/ii2Chris/StaticSiteGen)
+- [**Ai-Agent**](https://github.com/ii2Chris/ai-agent)
 - [**Asteroid Clone (Python/Pygame)**](https://github.com/ii2Chris/Aestroid-Game) 
 - [**Responsive Grid Layout**](https://responsive-grid-layout-mu.vercel.app/)
 - [**CertGram**](https://certgram.vercel.app/) 
