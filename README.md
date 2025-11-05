@@ -50,7 +50,3 @@ SQL + database design (SQLite/PostgreSQL)
 ## 🎮 Fun Fact
 
 Probably better at [Marvel Rivals](https://rivalsmeta.com/player/801459076) than I am at coding... probably.  
-
----
-
-*"Building simple, beautiful user experiences — one commit at a time."*
