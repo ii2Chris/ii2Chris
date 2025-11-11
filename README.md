@@ -26,7 +26,6 @@ A **full-stack developer** who loves building clean, user-focused web applicatio
 
 ## 📖 Currently Learning
 Deepening Python backend fundamentals
-SQL + database design (SQLite/PostgreSQL)
 
 ---
 
