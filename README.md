@@ -31,11 +31,17 @@ Deepening Python backend fundamentals
 
 ## 🚀 Projects
 - [**MD to HTML site converter**](https://github.com/ii2Chris/StaticSiteGen)
+  *Python • Compiler-style parsing • Static-site generator*
 - [**Ai-Agent**](https://github.com/ii2Chris/ai-agent)
-- [**Asteroid Clone (Python/Pygame)**](https://github.com/ii2Chris/Aestroid-Game) 
-- [**Responsive Grid Layout**](https://responsive-grid-layout-mu.vercel.app/)
-- [**CertGram**](https://certgram.vercel.app/) 
+  *Python • Gemini function calling • Sandboxed filesystem tools*
+- [**CertGram**](https://certgram.vercel.app/)
+  *React • Node.js • Supabase • API integrations*
 - [**Portfolio Website**](https://chrisbudhram.vercel.app/)
+  *HTML • CSS • JavaScript • Responsive web design*
+- [**Asteroid Clone (Python/Pygame)**](https://github.com/ii2Chris/Aestroid-Game)
+  *Python • Pygame • Game loop architecture • Sprite & collision systems*
+- [**Responsive Grid Layout**](https://responsive-grid-layout-mu.vercel.app/)
+  *HTML • CSS • Responsive design • Flexbox & CSS Grid layout patterns*
 
 ---
 
