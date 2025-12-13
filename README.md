@@ -30,6 +30,7 @@ Deepening Python backend fundamentals
 ---
 
 ## 🚀 Projects
+- [Repo Parser](https://github.com/ii2Chris/repo-bullets) | *Python • Typer • Repo cloning and cleanup*
 - [**MD to HTML site converter**](https://github.com/ii2Chris/StaticSiteGen)
   | *Python • Compiler-style parsing • Static-site generator*
 - [**Ai-Agent**](https://github.com/ii2Chris/ai-agent)
