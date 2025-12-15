@@ -17,8 +17,6 @@
 
 <br clear="left"/>
 
----
-
 ## 🚀 Projects
 - [Repo Parser](https://github.com/ii2Chris/repo-bullets) | *current working on...*
 - [**MD to HTML site converter**](https://github.com/ii2Chris/StaticSiteGen)
