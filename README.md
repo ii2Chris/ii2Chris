@@ -1,8 +1,4 @@
 # Hey, I'm Chris! 👋
-
-A **full-stack developer** who loves building clean, user-focused web applications.  
-📂 Portfolio → [chrisbudhram.vercel.app](https://chrisbudhram.vercel.app)
-
 ---
 
 ## 🧰 Languages and Tools
@@ -43,13 +39,6 @@ Deepening Python backend fundamentals
   | *Python • Pygame • Game loop architecture • Sprite & collision systems*
 - [**Responsive Grid Layout**](https://responsive-grid-layout-mu.vercel.app/)
   | *HTML • CSS • Responsive design • Flexbox & CSS Grid layout patterns*
-
----
-
-## 📬 Let's Connect
-📧 **Email:** christopherbudhram.jobs@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/chrisbudhram](https://www.linkedin.com/in/chrisbudhram)  
-🌐 **Portfolio:** [chrisbudhram.vercel.app](https://chrisbudhram.vercel.app)  
 
 ---
 
